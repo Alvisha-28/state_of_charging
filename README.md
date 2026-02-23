@@ -14,10 +14,15 @@ ________________________________________
 📊 Dataset
 
 The dataset contains battery parameters such as:
+
 •	Voltage
+
 •	Current
+
 •	Temperature
+
 •	SOC (State of Charge)
+
 The data is preprocessed and cleaned before training the model.
 ________________________________________
 ⚙️ Methodology
