@@ -38,8 +38,12 @@ ________________________________________
 📈 Results
 
 The model predicts SOC with high accuracy and minimal error.
+
 Performance is evaluated using:
+
 •	Mean Absolute Error (MAE)
+
 •	R² Score
+
 •	Actual vs Predicted SOC graph
 
