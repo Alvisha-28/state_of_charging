@@ -8,7 +8,9 @@ ________________________________________
 🎯 Objectives
 
 •	Predict battery SOC using measurable parameters
+
 •	Improve estimation accuracy using Machine Learning
+
 •	Build a simple and efficient SOC prediction model for BMS applications
 ________________________________________
 📊 Dataset
