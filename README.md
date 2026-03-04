@@ -25,7 +25,7 @@ The dataset contains battery parameters such as:
 
 The data is preprocessed and cleaned before training the model.
 ________________________________________
-⚙️ Methodology
+ Methodology
 
 1.	Data collection and preprocessing
 2.	Feature selection (Voltage, Current, Temperature)
@@ -34,7 +34,7 @@ ________________________________________
 5.	SOC prediction
 6.	Model evaluation using MAE and R² score
 ________________________________________
-🤖 Machine Learning Model
+ Machine Learning Model
 
 •	Algorithm used: Random Forest Regression
 
