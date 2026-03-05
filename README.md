@@ -1,5 +1,6 @@
 🔋 Machine Learning Based State of Charge (SOC) Prediction for Battery Management System
 
+
 📌 Overview
 
 This project focuses on estimating the State of Charge (SOC) of a lithium-ion battery using Machine Learning techniques. SOC represents the remaining battery capacity in percentage and is a critical parameter in Battery Management Systems (BMS) used in electric vehicles, renewable energy systems, and portable electronics.
